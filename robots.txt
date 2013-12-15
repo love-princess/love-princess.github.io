@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://love-princess.github.io/sitemap.xml 
