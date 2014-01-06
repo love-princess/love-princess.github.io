@@ -4,7 +4,7 @@
   <title><![CDATA[Love Princess]]></title>
   <link href="http://love-princess.github.io/atom.xml" rel="self"/>
   <link href="http://love-princess.github.io/"/>
-  <updated>2013-12-15T20:10:33+09:00</updated>
+  <updated>2014-01-06T09:12:44+09:00</updated>
   <id>http://love-princess.github.io/</id>
   <author>
     <name><![CDATA[Love Princess]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[愛媛野球]]></title>
+    <link href="http://love-princess.github.io/blog/2014/01/05/ehime-baseball/"/>
+    <updated>2014-01-05T21:49:57+09:00</updated>
+    <id>http://love-princess.github.io/blog/2014/01/05/ehime-baseball</id>
+    <content type="html"><![CDATA[<p><img src="http://love-princess.github.io/images/ehime-baseball.jpeg" alt="野球" /></p>
+
+<p>愛媛は野球が盛んです。</p>
+
+<br>
+
+
+<ul>
+<li>甲子園での勝率、全国一位</li>
+<li>済美、松山商業、宇和島東、今治西などの強豪校</li>
+<li>元メジャーリーガー岩村ら</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[道後温泉]]></title>
