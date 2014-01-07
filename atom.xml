@@ -4,7 +4,7 @@
   <title><![CDATA[Love Princess]]></title>
   <link href="http://love-princess.github.io/atom.xml" rel="self"/>
   <link href="http://love-princess.github.io/"/>
-  <updated>2014-01-07T09:20:52+09:00</updated>
+  <updated>2014-01-07T09:31:27+09:00</updated>
   <id>http://love-princess.github.io/</id>
   <author>
     <name><![CDATA[Love Princess]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[愛媛サッカー]]></title>
+    <link href="http://love-princess.github.io/blog/2014/01/07/ehime-soccer/"/>
+    <updated>2014-01-07T09:23:16+09:00</updated>
+    <id>http://love-princess.github.io/blog/2014/01/07/ehime-soccer</id>
+    <content type="html"><![CDATA[<ul>
+<li>高校選手権優勝校、南宇和高校</li>
+<li>元日本代表福西、インテル長友、アルビレックス新潟の川又</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[愛媛野球]]></title>
