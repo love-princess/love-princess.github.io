@@ -4,7 +4,7 @@
   <title><![CDATA[Love Princess]]></title>
   <link href="http://love-princess.github.io/atom.xml" rel="self"/>
   <link href="http://love-princess.github.io/"/>
-  <updated>2014-01-18T21:52:14+09:00</updated>
+  <updated>2014-01-18T22:01:14+09:00</updated>
   <id>http://love-princess.github.io/</id>
   <author>
     <name><![CDATA[Love Princess]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[大三島]]></title>
+    <link href="http://love-princess.github.io/blog/2014/01/18/big-three-island/"/>
+    <updated>2014-01-18T21:59:16+09:00</updated>
+    <id>http://love-princess.github.io/blog/2014/01/18/big-three-island</id>
+    <content type="html"><![CDATA[<p>瀬戸内海に浮かぶ、神・国宝・芸術の島。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[バリィさん]]></title>
