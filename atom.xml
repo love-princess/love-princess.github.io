@@ -4,7 +4,7 @@
   <title><![CDATA[Love Princess]]></title>
   <link href="http://love-princess.github.io/atom.xml" rel="self"/>
   <link href="http://love-princess.github.io/"/>
-  <updated>2014-01-18T22:01:14+09:00</updated>
+  <updated>2014-01-18T22:29:40+09:00</updated>
   <id>http://love-princess.github.io/</id>
   <author>
     <name><![CDATA[Love Princess]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[マッツとヤンマとモブリさん　―七つの秘宝と空飛ぶお城―]]></title>
+    <link href="http://love-princess.github.io/blog/2014/01/18/matsuyama-anime/"/>
+    <updated>2014-01-18T22:23:07+09:00</updated>
+    <id>http://love-princess.github.io/blog/2014/01/18/matsuyama-anime</id>
+    <content type="html"><![CDATA[<p>愛媛県松山市初のオリジナルアニメーション。</p>
+
+<p>道後温泉や松山城など、松山の各所を舞台に冒険が繰り広げられる。</p>
+
+<p>エンディングテーマはスキマスイッチの「トラベラーズ・ハイ」</p>
+
+<h2>link</h2>
+
+<ul>
+<li><a href="http://www.dandanmatsuyama.jp/">「マッツとヤンマとモブリさん　―七つの秘宝と空飛ぶお城―」</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[大三島]]></title>
@@ -42,7 +62,10 @@
 
 <h2>link</h2>
 
-<p><a href="http://www.barysan.net/">いまばり バリィさん</a></p>
+<ul>
+<li><a href="http://www.barysan.net/">いまばり バリィさん</a></li>
+</ul>
+
 ]]></content>
   </entry>
   
